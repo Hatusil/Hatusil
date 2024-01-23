@@ -1,5 +1,8 @@
-https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif
-### Hi 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" with="200" />
+  <hi align=align="center">Hi👋, I`m Ricardo
+</div>
+### Hi👋, I`m Ricardo
 
 <!--
 **Hatusil/Hatusil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

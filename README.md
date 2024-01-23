@@ -1,4 +1,5 @@
-### Hi there 👋
+https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif
+### Hi 👋
 
 <!--
 **Hatusil/Hatusil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

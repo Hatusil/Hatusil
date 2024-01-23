@@ -1,6 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="200" />
   <h1 align="center">Hi👋, I'm Ricardo</h1>
+  <h3 align="center">I am a software development student with a strong passion for leading an integral life and exploring the realms of data analysis, cartography, and geographic information systems. I deeply admire virtuous individuals who strive to better themselves day by day.
+    <h3/>
 </div>
 
 </div>

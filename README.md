@@ -18,7 +18,7 @@
 
 ### My Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hatusil&theme=prussian&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
   
   <!--

@@ -4,9 +4,16 @@
   <h3 align="center">I am a software development student with a strong passion for leading an integral life and exploring the realms of data analysis, cartography, and geographic information systems. I deeply admire virtuous individuals who strive to better themselves day by day.
     <h3/>
 </div>
+      
+<div align="left">
+<h3>Languages and tools</h3>
+</div>
+<ing src=https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg title="Ruby" alt="Rb"
+width"40" height="40"/>&nbsp;
 
-<!--
+  <!--
 **Hatusil/Hatusil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+link de iconos: https://github.com/devicons/devicon/tree/master/icons
 
 Here are some ideas to get you started:
 

@@ -14,6 +14,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Py" width="40" height="40" />&nbsp;
 </div>
 
+---
+
+### My Stats:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hatusil&theme=prussian&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+
   
   <!--
 **Hatusil/Hatusil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -17,9 +17,11 @@
 ---
 
 ### My Stats:
-<p align="center">
+
+<div align="center">
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Hatusil&theme=dark)](https://git.io/streak-stats)
-</p>
+</div>
+
 
   
   <!--

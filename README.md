@@ -17,7 +17,7 @@
 ---
 ### Contacto y Soporte
 
-# hatusil@proton.me;
+hatusil@proton.me
 [![Correo](https://img.shields.io/badge/Correo-%F0%9F%93%A9-blue?style=for-the-badge)](mailto:hatusil@proton.me?subject=Asunto%20del%20correo)
 &nbsp; | &nbsp;
 [![Copiar](https://img.shields.io/badge/Copiar-%F0%9F%93%8B-green?style=for-the-badge)](javascript:void(0);)

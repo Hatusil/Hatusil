@@ -15,9 +15,14 @@
 </div>
 
 ---
-### Contact and Support
-[Envíame un correo electrónico](mailto:hatusil@proton.me?subject=Asunto%20del%20correo) &nbsp; | &nbsp; [Copiar enlace](#)
+### Contacto y Soporte
 
+[Envía un correo electrónico](mailto:tu_correo_electronico@example.com?subject=Asunto%20del%20correo)
+&nbsp; | &nbsp;
+[![Correo](https://img.shields.io/badge/Correo-%F0%9F%93%A9-blue?style=for-the-badge)](mailto:tu_correo_electronico@example.com?subject=Asunto%20del%20correo)
+&nbsp; | &nbsp;
+[![Copiar](https://img.shields.io/badge/Copiar-%F0%9F%93%8B-green?style=for-the-badge)](javascript:void(0);)
+&nbsp; | &nbsp;
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Effort-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/hatusil)
 
 

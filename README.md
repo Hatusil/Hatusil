@@ -17,41 +17,7 @@
 ---
 ### Contacto y Soporte
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Contacto y Soporte</title>
-</head>
-<body>
-
-  <p id="correo">hatusil@proton.me</p>
-  <a href="mailto:hatusil@proton.me?subject=Asunto%20del%20correo">
-    <img src="https://img.shields.io/badge/Correo-%F0%9F%93%A9-blue?style=for-the-badge" alt="Correo">
-  </a>
-  &nbsp; | &nbsp;
-  <button onclick="copiarAlPortapapeles()">Copiar</button>
-
-  <script>
-    function copiarAlPortapapeles() {
-      const elementoCorreo = document.getElementById('correo');
-      const texto = elementoCorreo.innerText;
-
-      const textarea = document.createElement('textarea');
-      textarea.value = texto;
-      document.body.appendChild(textarea);
-      textarea.select();
-      document.execCommand('copy');
-      document.body.removeChild(textarea);
-
-      alert('Correo copiado al portapapeles: ' + texto);
-    }
-  </script>
-
-</body>
-</html>
-
+##hatusil@proton.me
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Effort-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/hatusil)
 

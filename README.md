@@ -18,7 +18,7 @@
 
 ### My Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Hatusil1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Hatusil&theme=dark)](https://git.io/streak-stats)
 
   
   <!--

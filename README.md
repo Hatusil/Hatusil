@@ -18,8 +18,8 @@
 ### Contact and Support
 
 
+[![Email](https://img.shields.io/badge/hatusil%40proton.me-personal%20email-ff6f69?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:hatusil@proton.me)
 
-📧 Email address: hatursil@proton.me
 
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Effort-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/hatusil)

@@ -10,6 +10,8 @@
 <div align="left">
   <h3>Languages and Tools</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Rb" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="C#" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Py" width="40" height="40" />&nbsp;
 </div>
 
   

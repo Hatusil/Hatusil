@@ -1,6 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" with="10" />
-  <h1 align="center">Hi👋, I`m Ricardo</h1>h1>
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100" />
+  <h1 align="center">Hi👋, I'm Ricardo</h1>
+</div>
+
 </div>
 ### Hi👋, I`m Ricardo
 

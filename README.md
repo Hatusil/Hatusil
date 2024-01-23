@@ -10,7 +10,8 @@
 </div>
 <ing src=https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Rb"
 width"40" height="40"/>&nbsp;
-
+</div>
+  
   <!--
 **Hatusil/Hatusil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 link de iconos: https://github.com/devicons/devicon/tree/master/icons

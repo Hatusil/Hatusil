@@ -15,7 +15,7 @@
 </div>
 
 ---
-### Contacto y Soporte
+### Contact and Support
 
 
 

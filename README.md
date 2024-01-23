@@ -8,12 +8,10 @@
 ---
       
 <div align="left">
-  <h3>Languages and tools</h3>
-  </div>
-    <ing src=https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Rb"
-    width"40" height="40"/>&nbsp;
-  </div>
+  <h3>Languages and Tools</h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Rb" width="40" height="40" />&nbsp;
 </div>
+
   
   <!--
 **Hatusil/Hatusil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="200" />
   <h1 align="center">Hi👋, I'm Ricardo</h1>
   <h3 align="center" style="font-family: 'Arial', sans-serif;">
-    I am a software development student with a strong passion for leading an integral life and exploring the realms of data analysis, cartography, and geographic information systems. I deeply admire virtuous individuals who strive to better themselves day by day.
+    "I am a software developer and data analyst seeking to subordinate technique and science to Truth and Wisdom, so as not to become a slave to the machine."
   </h3>
 </div>
 
